@@ -1,1 +1,1 @@
-var playlist = { breakfast: "oatmeal" };
+var playlist = { artist: songTitle };
